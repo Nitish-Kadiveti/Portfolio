@@ -414,19 +414,19 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .css::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .cpp::before{
-    width: 60%;
+    width: 90%;
 }
 .skills-content .right .python::before{
-    width: 60%;
+    width: 80%;
 }
-.skills-content .right .mysql::before{
-    width: 70%;
+.skills-content .right .tcpip::before{
+    width: 80%;
 }
 .skills-content .right .linux::before{
-    width: 70%;
+    width: 80%;
 }
 
 /* teams section styling */
