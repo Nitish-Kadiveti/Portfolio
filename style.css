@@ -420,7 +420,7 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .python::before{
-    width: 20%;
+    width: 80%;
 }
 .skills-content .right .tcpip::before{
     width: 90%;
