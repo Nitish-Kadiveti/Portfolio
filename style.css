@@ -417,16 +417,16 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .linux::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .python::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .tcpip::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .protocols::before{
-    width: 80%;
+    width: 90%;
 }
 
 /* teams section styling */
